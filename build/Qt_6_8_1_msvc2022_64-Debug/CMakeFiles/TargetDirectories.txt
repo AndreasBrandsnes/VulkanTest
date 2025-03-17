@@ -1,0 +1,11 @@
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/QtVulkanApp.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/Shaders.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/PreBuildCommandF.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/PreBuildCommandV.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/install.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/install/local.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/QtVulkanApp_autogen_timestamp_deps.dir
+C:/Users/AndreasLaptop/Downloads/QtVulkanApp-OlesWIP/QtVulkanApp-OlesWIP/build/Qt_6_8_1_msvc2022_64-Debug/CMakeFiles/QtVulkanApp_autogen.dir
