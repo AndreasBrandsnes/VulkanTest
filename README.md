@@ -1,3 +1,3 @@
-Simple test of Vulkan inside Qt.
+# About this project
 
-Based on Qt's included Hello Vulkan Widget Example
+01. Walkthrough of setting up a Vulkan configuration in Qt using C++.
